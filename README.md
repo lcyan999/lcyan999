@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${HelloWorld!%20!🥳}&fontSize=${50}&animation=${twinkling})
-
 // 내 옵션
 배경 타입 : waving
 높이 : 200
 텍스트 : HelloWorld!%20!🥳
 글자크기 : 50
 텍스트효과 : twinkling
+-->
+![header](https://capsule-render.vercel.app/api?type=${blur}&color=auto&height=${200}&section=header&text=동경소년의%20하드보일드%20원더랜드&fontSize=${50}&animation=${twinkling})
+

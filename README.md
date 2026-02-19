@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 Header Code
 https://github.com/kyechan99/capsule-render
 -->
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=동경소년과%20하드보일드원더랜드&fontSize=${50}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${150}&section=header&text=동경소년과%20하드보일드원더랜드&fontSize=${30}&animation=${twinkling})
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=&logo=Python&logoColor=white">
